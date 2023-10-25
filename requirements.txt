@@ -1,0 +1,5 @@
+langchain
+openai
+pandas 
+transformers  
+faiss-cpu
