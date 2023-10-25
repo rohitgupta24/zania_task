@@ -4,7 +4,7 @@ import sys
 from langchain.prompts import PromptTemplate
 
 
-template = """
+template = """ 
 You are a world class pdf Assistant who give answers to every question asked to you from the data provided.
 
 You will follow all of the rules below:
